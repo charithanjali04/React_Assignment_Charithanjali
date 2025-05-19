@@ -1,6 +1,3 @@
-# React_Assignment_Charithanjali
-My Dashboard UI is a responsive admin dashboard built with Next.js, Tailwind CSS, and shadcn/ui. It features a sidebar for navigation and a user table with filtering and sorting. Designed as a frontend test assignment, the project demonstrates clean UI, component-based architecture, and modern development practices using React and TypeScript.
-
 This project is a responsive Dashboard UI built as part of a frontend developer test assignment. The dashboard features a sidebar navigation, a data table with dummy user data, and supports sorting and filtering functionalities. The UI is built using modern React technologies and styled with Tailwind CSS, leveraging components from the shadcn/ui library.
 
 Features
